@@ -1,0 +1,39 @@
+#UltimateRodhare - FL Studio Template [2023.11.06]
+
+##INFO
+- Version 2023.11.06
+- FL Version 21.1.0
+
+## SPEC
+- CPU i5-8400 (Minimum) / i5-12400 (Recommend)
+- RAM 24GB (Minimum) / 32GB (Recommend)
+- Storage 250GB (Kontakt Library 80GB / VST 16-24GB / VSTi Libraries 32-48GB) [SSD Required only!!!!!!!!!]
+
+## Instuments
+- KONTAKT 7=7.5.2
+- ADDICTIVE DRUMS 2
+- REALSTRAT 
+- REALGUTAR
+- SERUM
+
+## Effects
+- WAVES V14 (Ultimate)
+- Ozone11
+- UAD LA-2A
+- UAD API2500
+- UAD 1176
+- VERBSUITE CLASSIC
+- VALHALLA DSP
+- NEURALDSP
+- GUITARiX
+- FABFiLTER
+- SSL FUSION
+- FLATLINE 2
+- Kiloheartz VST
+
+##KONTKAT Library
+- V Metal
+- Session Pro
+- Strezov Rogue
+- Thai Instuments
+- E-SAN Instruments
