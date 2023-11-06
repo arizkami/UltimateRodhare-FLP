@@ -1,6 +1,6 @@
-#UltimateRodhare - FL Studio Template [2023.11.06]
+# UltimateRodhare - FL Studio Template [2023.11.06]
 
-##INFO
+## INFO
 - Version 2023.11.06
 - FL Version 21.1.0
 
@@ -31,7 +31,7 @@
 - FLATLINE 2
 - Kiloheartz VST
 
-##KONTKAT Library
+## KONTKAT Library
 - V Metal
 - Session Pro
 - Strezov Rogue
